@@ -1,0 +1,12 @@
+## Visual Studio / .NET Framework
+.vs/
+[Bb]in/
+[Oo]bj/
+[Pp]ackages/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+*.bak
+*.log
